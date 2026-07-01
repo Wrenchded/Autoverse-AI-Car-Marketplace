@@ -39,3 +39,5 @@ temp/
 *.pt
 *.pth
 *.onnx
+
+autoverse-backend/car-damage-detection.zip

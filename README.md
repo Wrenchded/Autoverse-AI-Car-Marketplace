@@ -262,24 +262,6 @@ AutoVerse
 
 ---
 
-# 📸 Project Screenshots
-
-Add screenshots of:
-
-- Login Page
-- Registration Page
-- Explore Cars
-- AI Price Predictor
-- AI Damage Detection
-- Car Rental
-- Test Drive Booking
-- Seller Dashboard
-- My Listings
-- AI Chatbot
-- 3D Showroom
-
----
-
 # 🔮 Future Enhancements
 
 - Voice Assistant Integration
@@ -317,17 +299,11 @@ Add screenshots of:
 📊 Aspiring Data Scientist  
 🚀 Entrepreneur & Product Builder
 
-### Projects
-- 🚍 KIRAYA
-- 🚗 AutoVerse
-- 💰 Xpensify
-- 📄 PDF Mind
+
 
 ---
 
 <div align="center">
-
-## ⭐ Star this repository if you found it interesting!
 
 ### 🚗 AutoVerse — Redefining Digital Automobile Commerce
 

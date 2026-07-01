@@ -32,3 +32,10 @@ temp/
 
 # Logs
 *.log
+
+# Large ML files
+*.zip
+*.h5
+*.pt
+*.pth
+*.onnx

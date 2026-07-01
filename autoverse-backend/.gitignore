@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+app/ml_models/*.pkl
+app/ml_models/*.h5
+data/
+*.ipynb_checkpoints/

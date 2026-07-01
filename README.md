@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 AutoVerse
+# AutoVerse
 ### AI-Powered Premium Car Marketplace
 
 <p align="center">

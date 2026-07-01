@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </p>
 
-### 🌟 Revolutionizing the Automobile Industry with Artificial Intelligence
+### Revolutionizing the Automobile Industry with Artificial Intelligence
 
 *A Full-Stack AI-Powered Luxury Car Marketplace featuring Machine Learning, Deep Learning, Virtual Showrooms, and Intelligent User Experiences.*
 
@@ -21,7 +21,7 @@
 
 ---
 
-# 📖 About AutoVerse
+# About AutoVerse
 
 AutoVerse is a next-generation AI-powered automobile marketplace developed to transform the traditional car buying and selling experience. The platform provides an intelligent, interactive, and premium digital environment where users can explore, compare, rent, purchase, and manage luxury automobiles.
 
@@ -29,9 +29,9 @@ The system combines modern web technologies with Artificial Intelligence, Machin
 
 ---
 
-# ✨ Key Features
+# Key Features
 
-## 🔐 Authentication System
+## Authentication System
 - User Registration
 - Secure Login
 - JWT Authentication
@@ -40,7 +40,7 @@ The system combines modern web technologies with Artificial Intelligence, Machin
 
 ---
 
-## 🚗 Explore Luxury Cars
+## Explore Luxury Cars
 - Browse luxury sports cars
 - Advanced filtering system
 - Brand-based exploration
@@ -51,7 +51,7 @@ The system combines modern web technologies with Artificial Intelligence, Machin
 
 ---
 
-## 💰 AI Price Prediction
+## AI Price Prediction
 Machine Learning-powered price prediction engine capable of estimating the market value of automobiles based on:
 
 - Present Price
@@ -69,7 +69,7 @@ Machine Learning-powered price prediction engine capable of estimating the marke
 
 ---
 
-## 🚨 AI Damage Detection
+## AI Damage Detection
 Deep Learning-based vehicle damage assessment system.
 
 ### Features
@@ -86,7 +86,7 @@ Deep Learning-based vehicle damage assessment system.
 
 ---
 
-## 🤖 Automobile Chatbot
+## Automobile Chatbot
 Interactive AI-powered automobile assistant capable of:
 
 - Brand search
@@ -99,7 +99,7 @@ Interactive AI-powered automobile assistant capable of:
 
 ---
 
-## 📅 Test Drive Booking System
+## Test Drive Booking System
 Users can:
 
 - Schedule test drives
@@ -109,7 +109,7 @@ Users can:
 
 ---
 
-## 🔑 Luxury Car Rental System
+## Luxury Car Rental System
 
 Features include:
 
@@ -122,7 +122,7 @@ Features include:
 
 ---
 
-## 🏪 Seller Marketplace
+## Seller Marketplace
 
 Registered sellers can:
 
@@ -134,7 +134,7 @@ Registered sellers can:
 
 ---
 
-## 🌐 3D Virtual Car Showroom
+## 3D Virtual Car Showroom
 
 Interactive 3D luxury car experience powered by Sketchfab.
 
@@ -147,7 +147,7 @@ Features:
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
                     ┌─────────────────────┐
@@ -174,7 +174,7 @@ Features:
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 ## Frontend
 - Streamlit
@@ -233,7 +233,7 @@ AutoVerse
 
 ---
 
-# 🚀 Major Modules
+# Major Modules
 
 | Module | Description |
 |--------|-------------|
@@ -249,7 +249,7 @@ AutoVerse
 
 ---
 
-# 📊 AI Components
+# AI Components
 
 ## Machine Learning
 - Vehicle Price Prediction
@@ -262,7 +262,7 @@ AutoVerse
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 - Voice Assistant Integration
 - Generative AI Car Advisor
@@ -274,7 +274,7 @@ AutoVerse
 
 ---
 
-# 🎓 Academic Information
+# Academic Information
 
 ### Project Title
 **AutoVerse – AI-Powered Premium Car Marketplace**
@@ -290,7 +290,7 @@ AutoVerse
 
 ---
 
-# 👨‍💻 Developer
+# Developer
 
 ## Aditya Sarmalkar
 
@@ -305,6 +305,6 @@ AutoVerse
 
 <div align="center">
 
-### 🚗 AutoVerse — Redefining Digital Automobile Commerce
+### AutoVerse — Redefining Digital Automobile Commerce
 
 </div>
